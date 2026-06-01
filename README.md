@@ -34,6 +34,16 @@ verse (classical tafsir, attributed), with word-by-word meanings and a grounded
 
 <a href="https://iqra-reader.vercel.app"><img src="https://raw.githubusercontent.com/mohamedaziz-selmi/iqra/main/docs/preview.png" width="430" alt="Iqra"/></a>
 
+### [aether · design & motion studio](https://github.com/mohamedaziz-selmi/aether-studio)
+An immersive single-page studio concept — a WebGL flowing-gradient hero, smooth
+scroll cinematics, a pinned horizontal gallery, and magnetic motion. One file, no
+build step. **▶ [Live demo](https://mohamedaziz-selmi.github.io/aether-studio/)**
+
+### [securify · hero](https://github.com/mohamedaziz-selmi/securify-hero)
+A full-screen data-security product hero: a looping video backdrop, a floating
+pill navbar, and large staggered typography.
+**▶ [Live demo](https://mohamedaziz-selmi.github.io/securify-hero/)**
+
 ---
 
 ## 🛠️ Tech stack
