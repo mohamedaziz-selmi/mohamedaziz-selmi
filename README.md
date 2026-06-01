@@ -8,6 +8,7 @@ Final-year computer-science engineering in Tunisia. I build across the stack —
 microservices &amp; DevOps on one side, data science &amp; BI on the other — and I
 care about how the result *looks and feels*, not just whether it runs.
 
+<a href="https://www.linkedin.com/in/selmi-aziz-a15aa6279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mohamedaziz.selmi@esprit.tn"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/📍_Tunisia-0d1117?style=for-the-badge" alt="Tunisia"/>
 <img src="https://img.shields.io/badge/Open_to_internships_&_collaborations-2ea043?style=for-the-badge" alt="Open to work"/>
@@ -77,6 +78,6 @@ verse (classical tafsir, attributed), with word-by-word meanings and a grounded
 
 <div align="center">
 
-✉️ mohamedaziz.selmi@esprit.tn &nbsp;·&nbsp; 📍 Tunisia &nbsp;·&nbsp; open to internships &amp; collaborations
+<a href="https://www.linkedin.com/in/selmi-aziz-a15aa6279/">LinkedIn</a> &nbsp;·&nbsp; ✉️ mohamedaziz.selmi@esprit.tn &nbsp;·&nbsp; 📍 Tunisia &nbsp;·&nbsp; open to internships &amp; collaborations
 
 </div>
